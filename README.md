@@ -13,7 +13,7 @@ PostgreSQL: Stores persistent data such as product listings and order records.
 
 RabbitMQ: Serves as a message broker to decouple the API and background processing services.
 
-youtube link : https://youtu.be/wTsi0xK7tRI
+youtube link : https://youtu.be/hJVV7vLhnD4
 
 🚀 How to Run the Project
 
